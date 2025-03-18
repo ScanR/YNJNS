@@ -13,6 +13,7 @@ rl._writeToOutput = function _writeToOutput(stringToWrite) {
 
 const scrappingSeries = {
   uma: "『ウマ娘 シンデレラグレイ』／漫画：久住太陽　脚本：杉浦理史＆Pita　漫画企画構成：伊藤隼之介（原作：Cygames）",
+  maerchen_crown : "【新連載】『メルヘンクラウン』／赤坂アカ╳あおいくじら╳アジチカ"
 };
 
 const path = "./series";
